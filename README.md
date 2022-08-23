@@ -24,7 +24,7 @@
 
 ## About the project
 
-This project unifies everything learned so far. We will develop a routes app (mobile first) where users will register, login, view routes and can save routes to their favourites. All this Using the API we will recieve from the good people on the data science course. 
+This project unifies everything learned so far. We will develop a routes app (mobile first and only) where users will register, login, view routes and can save routes to their favourites. All this Using the API we will recieve from the good people on the data science course. 
 
 ## Requirements
 Once the needs of the project have been analyzed, it is expected
@@ -56,6 +56,8 @@ BackEnd
     2. Once the repository is cloned, you have to install all the packages that the project needs with `npm i`
 
     3. Inside the cloned folder of (https://github.com/alextebbitt/routes-front-) you have to run the command `npm start`
+    
+    4. Please and foremost, change your screen size to mobile size or use a simulator such as <i>Web Mobile First </i>(https://www.webmobilefirst.com/)
 
 ## Technologies used
 
