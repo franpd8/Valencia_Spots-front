@@ -90,16 +90,16 @@ The project originates from the FullStack bootcamp at [TheBridge](https://www.th
 
 
 ### Log in page
-![Log in page](./assets/login.png)
+![Log in page](https://i.imgur.com/LABcaWT.jpg)
 
 ### Register page
-![Screnshot of login](./link/goes/here)
+![Screnshot of login](https://i.imgur.com/xANJbwW.jpg)
 
-### User favourites 
-![User favourites](./assets/favourites.png)
+### Routes Finder
+![Routes Finder](https://i.imgur.com/N7o30RJ.jpg)
 
 ### Routes view
-![Routes view](./link/goes/here)
+![Routes view](https://i.imgur.com/Kf8ddE8.jpg)
 
 ## Organization
 
